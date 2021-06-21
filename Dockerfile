@@ -1,7 +1,7 @@
-FROM tensorflow/tensorflow:latest-gpu
+FROM tensorflow/tensorflow:2.2.3-gpu
 
 RUN apt-get update
-RUN apt-get install -y libgl1-mesa-dev wget vim
+RUN apt-get install -y libgl1-mesa-dev wget vim python3.7
 
 RUN pip install keras numpy pillow flask gunicorn opencv-python segmentation_models albumentations
 
