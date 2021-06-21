@@ -17,7 +17,7 @@
 
 *본 프로젝트는 인공위성 영상에서 건물 탐지 및 도로를 추출하기 위해 다양한 인공지능 기술을 시도한 모두연 AIFFEL 해커톤 프로젝트* 
 
-![lv_img](/home/ssac16/aiffel/HACKATHON_FINAL/lv_img.jpg)
+![lv_img](/home/ssac16/aiffel/HACKATHON_FINAL/workplace/lv_img.jpg)
 
 ### Reference : 
 
