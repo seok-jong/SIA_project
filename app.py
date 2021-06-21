@@ -94,7 +94,6 @@ def healthCheck():
 @app.route("/images", methods=['POST'])
 def get_result():
     if request.method == "POST":
-        width, height = 512, 512
         try:
             curr_time = datetime.datetime.now()
             curr_time = re.sub(r'[ :]','-', str(curr_time))
