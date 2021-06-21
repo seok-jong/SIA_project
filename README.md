@@ -11,3 +11,8 @@ Team : SSAC SIA2
 
 ## ![img](https://lh5.googleusercontent.com/787CG9WcPxRXQy8VnaNIJmCrQ8ln7Ukp0w6ArcVALgwmzw37N5oxrOwZtLpwZWynQT6qqlieG6lqeh4PfTJOQrvuxgtSdF1oKrDBeHb6hhWVNOFLr9UYiqhU86tO3lN5_km4JZk)
 
+
+
+### Reference : 
+
+https://www.notion.so/SIA-Segmenation-1158b5aa5cb7455eb1bcc9fdf27b3cc7
