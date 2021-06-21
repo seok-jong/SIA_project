@@ -19,7 +19,7 @@ import segmentation_models as sm
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 config = ({"input_size": 1024,
-           "image_size": 864,
+           "image_size": 928,
            "backbone": "efficientnetb7",
            "method": "unet",
            "class": "mixed"
